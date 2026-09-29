@@ -1,0 +1,33 @@
+# Python environments
+rpvenv/
+rpenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Raw and processed datasets
+data/
+
+# Large biological / image data
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+*.tif
+*.tiff
+*.svs
+
+# Generated outputs
+outputs/
+notebooks/outputs/

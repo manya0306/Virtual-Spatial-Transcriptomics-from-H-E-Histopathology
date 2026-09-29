@@ -31,3 +31,16 @@ data/
 # Generated outputs
 outputs/
 notebooks/outputs/
+
+# Synthetic benchmark dataset
+claude_project/data/synthetic/images/
+
+# Generated benchmark outputs
+outputs/extended_benchmark/
+outputs/results_report/
+
+# Generated feature caches
+outputs/synthetic_features/
+
+# Synthetic dataset archive
+claude_project/synthetic_spatial_transcriptomics_1000.zip
